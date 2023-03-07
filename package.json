@@ -1,0 +1,9 @@
+{
+  "name": "new-project",
+  "author": "OptimalBlock489",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "compute-cosine-similarity": "^1.0.0"
+  }
+}

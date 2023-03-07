@@ -1,0 +1,8 @@
+{
+  "functions/classify-query.js": {
+    "query": "i think i found a bug"
+  },
+  "functions/classify-support-question.js": {
+    "query": "my bot wont link"
+  }
+}

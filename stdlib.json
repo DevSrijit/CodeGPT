@@ -1,0 +1,13 @@
+{
+  "name": "optimalblock489/codegpt",
+  "timeout": 30000,
+  "connector": false,
+  "events": {
+    "functions/events/discord/bot_mention.js": {
+      "name": "discord.bot_mention"
+    },
+    "functions/events/autocode/self/deployed.js": {
+      "name": "autocode.self.deployed"
+    }
+  }
+}
